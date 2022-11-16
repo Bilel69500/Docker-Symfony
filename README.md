@@ -2,7 +2,6 @@
 
 ![Symfony logo](https://blog.rafalmuszynski.pl/assets/images/posts/2018-02-12-how-to-configure-docker-for-symfony-4-applications.png)
 
-Bonjour je suis  **Bilel**, le mec qui a mis en place le docker.
 
 Laissez moi vous montrer comment on fait.
 
